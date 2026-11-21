@@ -74,7 +74,7 @@ The screenshots supplied with this submission show **100% (1/1: 1 cracked, 0 lef
 
 ### Challenge 1 — My Locked PDF1
 
-![Johnny showing recovered password good-luck and the first flag](screenshots/Flag1.png)
+![Johnny showing recovered password good-luck and the first flag](screenshoots/Flag1.png)
 
 **Observed password:** `good-luck`  
 **Observed completion:** 100%, one recovered entry  
@@ -84,7 +84,7 @@ The screenshot shows Johnny displaying the recovered password and the PDF displa
 
 ### Challenge 2 — My Locked PDF2
 
-![Johnny showing recovered password password1 and the second flag](screenshots/flag2.png)
+![Johnny showing recovered password password1 and the second flag](screenshoots/flag2.png)
 
 **Observed password:** `password1`  
 **Observed completion:** 100%, one recovered entry  
@@ -94,7 +94,7 @@ The screenshot shows the recovered password in Johnny and a second flag page dis
 
 ### Challenge 3 — My Locked PDF3
 
-![Johnny showing a recovered entry with the password visually obscured and the third flag](screenshots/flg3.png)
+![Johnny showing a recovered entry with the password visually obscured and the third flag](screenshoots/flg3.png)
 
 **Observed password:** Not disclosed; the password cell is visually covered in the screenshot.  
 **Observed completion:** 100%, one recovered entry  
